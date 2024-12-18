@@ -29,7 +29,7 @@
     │         ├── MySQL
     │         ├── PostgreSQL
     │         ├── MongoDB      
-    │         ├── DynamoDB
+    │         └── DynamoDB
     │     
     └── /Contact
            └── antoniomaliketh@gmail.com
