@@ -27,9 +27,9 @@
     │     │    └── /JWT_Token
     │     └── Database
     │         ├── MySQL
-    │         └── PostgreSQL
-    │               └── MongoDB
-    │     
+    │         ├── PostgreSQL
+    │         ├── MongoDB      
+    │         ├── DynamoDB
     │     
     └── /Contact
            └── antoniomaliketh@gmail.com
