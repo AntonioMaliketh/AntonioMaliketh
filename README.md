@@ -3,8 +3,8 @@
 Antônio Luciano | Software Developer
 </pre>
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=1100&pause=750&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=Fullstack;Type:+Software+Developer;ID:+9;Location:+Github+Repository+Maintenance" alt="My Status">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=[Java+Go+C...:+Boot+Sequence+Initiated];[MEMORY+UNIT:+GREEN]">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=1100&pause=750&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=Software+Developer;Type:+Fullstack;ID:+9;Location:+Github+Repository+Maintenance" alt="My Status">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=[Java+JS+C...];[Boot+Sequence+Initiated];[MEMORY+UNIT:+GREEN];[EXECUTING+PROTOCOL]">
 </p>
 <p>
   <a href="https://github.com/AntonioMaliketh">
