@@ -15,7 +15,7 @@ Antônio Luciano | Software Developer
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="desktop-wallpaper-minimalist-dark-souls-best-minimalist-dark.jpg" alt="Elden Ring Cerulean Coast" style="width: 100%; height: 600px; border: none;"/>
+       <img src="desktop-wallpaper-minimalist-dark-souls-best-minimalist-dark.jpg" alt="Souls character" style="width: 100%; height: 600px; border: none;"/>
     </td>
     <td style="width: 100%; height: 400px; vertical-align: top;">
 
