@@ -1,7 +1,21 @@
+<div align="center">
+<pre>
+Antônio Luciano | Software Developer
+</pre>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=1100&pause=750&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=Fullstack;Type:+D+(Developer);ID:+9;Purpose:+Github+Repository+Maintenance" alt="YoRHa Status">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=[YoRHa+Unit+2B:+Boot+Sequence+Initiated];[BLACK+BOX+TEMPERATURE:+NORMAL];[MEMORY+UNIT:+GREEN];[TACTICAL+SUPPORT:+ONLINE];[EXECUTING+PROTOCOL]">
+</p>
+<p>
+  <a href="https://github.com/AntonioMaliketh">
+    <img src="https://github-readme-stats.vercel.app/api?username=AntonioMaliketh&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Stats Record - AntonioMaliketh">
+  </a>
+</p>
+
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="ezgif-4-6572292de5.gif" alt="Elden Ring Cerulean Coast" style="width: 100%; height: 600px; border: none;"/>
+       <img src="desktop-wallpaper-minimalist-dark-souls-best-minimalist-dark.jpg" alt="Elden Ring Cerulean Coast" style="width: 100%; height: 600px; border: none;"/>
     </td>
     <td style="width: 100%; height: 400px; vertical-align: top;">
 
@@ -27,9 +41,9 @@
     │     │    └── /JWT_Token
     │     └── Database
     │         ├── MySQL
-    │         └── PostgreSQL
-    │               └── MongoDB
-    │     
+    │         ├── PostgreSQL
+    │         ├── MongoDB      
+    │         └── DynamoDB
     │     
     └── /Contact
            └── antoniomaliketh@gmail.com
